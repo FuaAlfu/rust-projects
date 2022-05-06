@@ -1,0 +1,1 @@
+D:\ProjectsToBuildUp\Go-service\planing\Repo\golang-Dev\rust-projects\000-prologue\001-start\001-console\target\debug\console.exe: D:\ProjectsToBuildUp\Go-service\planing\Repo\golang-Dev\rust-projects\000-prologue\001-start\001-console\src\main.rs
