@@ -14,6 +14,8 @@ fn main() {
     let q:bool;
     let g = 5i32;
     let mut x = 69;
+    let z:i32 = 8106
+    let mut y:i32 = 7;
 
     let y = 5.0_f64;
     println!("success");
@@ -22,10 +24,12 @@ fn main() {
     ff = 77.99;
     q = true;
     x = 9;
+    y = z;
 
     println!("f: {}",f);
     println!("ff: {}",ff);
     println!("q: {}",q);
     println!("the value of a is {}, the value of g is {}",a,g);
     println!("the value of x is {}",x);
+    println!("the value of y is {}",y);
 }
